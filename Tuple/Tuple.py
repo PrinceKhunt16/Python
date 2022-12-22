@@ -1,4 +1,4 @@
-tup = (1, 3, 5, 'Green', 'Mengo')
+tup = (1, 3, 5, 'Python', 'Mengo')
 
 # print(type(tup), tup)
 # print(tup[0])
