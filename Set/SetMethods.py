@@ -49,5 +49,5 @@ s2 = {3, 4, 5, 6}
 # else:
 #   print('No')
 
-# for i in s1:
-#   print(i)
+# for key in s1:
+#   print(key)

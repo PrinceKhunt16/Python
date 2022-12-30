@@ -1,4 +1,4 @@
-for i in range(15):
-  if(i == 10):
+for key in range(15):
+  if(key == 10):
     break
-  print('1 X', i + 1, '=', (i + 1) * 1)
+  print('1 X', key + 1, '=', (key + 1) * 1)

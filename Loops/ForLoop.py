@@ -1,14 +1,14 @@
 name = 'john'
 
-for i in name: 
-  print(i)
+for key in name: 
+  print(key)
 
 colors = ['Red', 'Green', 'Blue', 'Yellow']
 
 for color in colors:
   print(color)
-  for i in color:
-    print(i)
+  for key in color:
+    print(key)
 
 for k in range(10):
   print(k)

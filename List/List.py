@@ -20,8 +20,8 @@ marks = [53, 85, 67, 'John', True]
 # print(marks[0:4:2])
 
 
-# nums = [i for i in range(9)]
+# nums = [i for key in range(9)]
 # print(nums)
 
-# nums = [i*i for i in range(9) if i % 2 == 0]
+# nums = [i*i for key in range(9) if i % 2 == 0]
 # print(nums)

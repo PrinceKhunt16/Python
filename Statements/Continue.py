@@ -1,4 +1,4 @@
-for i in range(10):
-  if(i % 2 == 1):
+for key in range(10):
+  if(key % 2 == 1):
     continue
-  print('1 X', i + 1, '=', (i + 1) * 1)
+  print('1 X', key + 1, '=', (key + 1) * 1)
