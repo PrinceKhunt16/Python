@@ -1,0 +1,3 @@
+import John
+
+John.welcome()
