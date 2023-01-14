@@ -1,4 +1,4 @@
 import os 
 
-if(not os.path.exists('OsModule/Dummy')):
-  os.mkdir('OsModule/Dummy')
+if(not os.path.exists('OsModule/Fun')):
+  os.mkdir('OsModule/Fun')
