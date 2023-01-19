@@ -1,3 +1,5 @@
+from functools import reduce
+
 nums = [1, 9, 4, 6, 4]
 
 # print(nums)
@@ -34,3 +36,37 @@ nums = [1, 9, 4, 6, 4]
 # print(nums)
 # print(numms)
 # print(nummms)
+
+def cube(x):
+  return x * x * x
+
+nums = [1, 2, 3, 4, 5]
+
+# cubes = []
+# for item in nums:
+#   cubes.append(cube(item))
+# print(cubes)
+
+# cubes = list(map(cube, nums))
+# print(cubes)
+
+# cubes = list(map(lambda x: x * x * x, nums))
+# print(cubes)
+
+# def even(x):
+#   return x % 2 == 0
+
+# evens = list(filter(even, nums))
+# print(evens)
+
+# cubes = list(filter(lambda x: x % 2 == 0, nums))
+# print(cubes)
+
+# def sum(x, y):
+#   return x + y
+
+# sum = reduce(sum, nums)
+# print(sum)
+
+# sum = reduce(lambda x, y: x + y, nums)
+# print(sum)
