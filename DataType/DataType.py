@@ -1,3 +1,5 @@
+# Datatypes
+
 a = complex(8, 2)
 b = True
 c = "John"
