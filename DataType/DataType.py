@@ -17,3 +17,6 @@ print(tupel1)
 
 dic1 = {'name': 'John', 'age': 20, 'canVote': True}
 print(dic1)
+
+dic1 = {'name': 'Prince', 'age': 17, 'canVote': False}
+print(dic1)
