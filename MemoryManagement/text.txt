@@ -1,0 +1,5 @@
+1. Use local variables
+2. Avoid circular references
+3. Use generators
+4. Explicit delete objects
+5. Profile memory management
